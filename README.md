@@ -36,14 +36,14 @@ This is a menu-driven C++ program that provides a Unit Converter, a Matrix Calcu
 
 1. Clone the repository:
    
-   git clone https://github.com/vishrutchawda/c++-unit-matrix-calculator.git
+   git clone https://github.com/vishrutchawda/cpp-unit-matrix-calculator.git
    cd cpp-unit-matrix-calculator
 
-2. Compile the program:
+3. Compile the program:
 
 	g++ main.cpp -o program
 
-3. Run the program:
+4. Run the program:
      
      program.exe
    
